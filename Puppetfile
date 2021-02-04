@@ -12,7 +12,7 @@ forge "https://forgeapi.puppetlabs.com"
 
  mod 'puppetlabs-apt',
    :git => 'https://github.com/puppetlabs/puppetlabs-apt.git',
-   :ref => '1.4.x'
+   :tag => 'v7.7.0'
 
  mod 'testrepo',
    :git => 'https://github.com/rajkumarnivas/testrepo.git',
