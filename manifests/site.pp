@@ -1,0 +1,5 @@
+node /rajkumarslave/ {
+
+    include testrepo
+
+}
