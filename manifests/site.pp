@@ -1,5 +1,5 @@
 node /rajkumarslave/ {
 
-    include testrepo
+    include role::lamp
 
 }
