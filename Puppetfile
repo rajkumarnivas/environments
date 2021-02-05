@@ -9,7 +9,7 @@ forge "https://forgeapi.puppetlabs.com"
    :git => 'git://github.com/puppetlabs/puppetlabs-ntp.git'
 
  mod 'puppetlabs-apt'
-   :git => 'git://github.com/puppetlabs/puppetlabs-ntp.git'
+   :git => 'git://github.com/puppetlabs/puppetlabs-apt.git'
    :ref => '4.2.0'
 
  mod 'testrepo',
